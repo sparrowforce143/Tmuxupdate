@@ -21,4 +21,4 @@ pkg update && pkg install git -y
 git clone https://github.com/sparrowforce143/Tmuxupdate.git
 cd Tmuxupdate
 chmod +x sparrowupdate.sh
-./sparrow update.sh
+./sparrowupdate.sh
